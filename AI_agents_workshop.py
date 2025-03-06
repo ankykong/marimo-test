@@ -6,7 +6,7 @@ app = marimo.App()
 
 @app.cell(hide_code=True)
 def _(mo):
-    mo.md(r"""# **AI Agents** ⚒ Workshop by [DSML](https://www.instagram.com/dsmliui/) - Presented by [Pritesh Shah](www.priteshshah.com)""")
+    mo.md(r"""# **AI Agents** ⚒ Workshop by [DSML](https://www.instagram.com/dsmliui/)""")
     return
 
 
