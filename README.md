@@ -1,5 +1,4 @@
-# marimo-test
-Testing Marimo
+# AI Agents Workshop
 
 ## How to run
 
