@@ -1,0 +1,5 @@
+marimo
+aisuite
+python-dotenv
+crewai[tools]
+pymupdf
